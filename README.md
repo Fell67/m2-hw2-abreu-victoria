@@ -27,4 +27,4 @@ Your code must be deployed to GitHub Pages. To deploy a repository to GitHub pag
 Your site should be deployed to `<your github username>`.github.io/`<your repository name>` in 5-10 minutes.
 
 # Website Link
-https://fell67.github.io/m2-hw2-abreu-victoria/
+[https://fell67.github.io/m2-hw2-abreu-victoria/](https://fell67.github.io/skiing-in-colorado/)
